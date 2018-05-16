@@ -1,0 +1,46 @@
+//dar nome para exibir no comit
+git config -- global user.name "nome"
+
+//ver o nome que está nos comits
+git config user.name
+
+//configura o email para ser exibido no comit
+
+git config --global user.name nativaldo.cruz@gmail.com
+
+
+//mostra o email
+git config user.email
+
+
+//configurar proxy
+
+Problema com o @ da senha tem que substituir pelo código HEXA %40
+git config --global http.proxy http://36118052017.1n:senac%4011805@10.136.95.226:3128
+//iniciar o git
+git init
+
+//adicionar repositorio
+
+cd..
+cd caminho/caminho
+
+//ver arquivos do projeto
+
+git status
+
+//Adicionar arquivo para ser controlado pelo git
+
+git add teste.txt
+
+//comitar 
+
+git commit -m "Meu primeiro comite"
+
+//adicionar repositorio git ao gitHub
+
+git remote add origin  + endereço repositorio github
+
+
+
+
