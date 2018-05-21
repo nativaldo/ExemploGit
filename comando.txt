@@ -53,6 +53,10 @@ git add*
 
 rm .git/index.lock
 
+//deslogar git
+
+git config --global --unset-all
+
 
 
 
