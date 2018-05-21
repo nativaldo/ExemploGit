@@ -35,7 +35,7 @@ git add teste.txt
 
 //comitar 
 
-git commit -m "Meu primeiro comite"
+git commit -m "Aula Interface"
 
 //adicionar repositorio git ao gitHub
 
@@ -49,7 +49,9 @@ git push origin master
 //adicionar tudo ao git
 git add*
 
+//Corrigir erro - Another git process seems to be running in this repository...
 
+rm .git/index.lock
 
 
 
