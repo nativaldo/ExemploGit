@@ -42,5 +42,16 @@ git commit -m "Meu primeiro comite"
 git remote add origin  + endereço repositorio github
 
 
+//Subir arquivos para o gitHub
+
+git push origin master
+
+//adicionar tudo ao git
+git add*
 
 
+
+
+
+
+C:/Users/36118052017.1n/Documents/ExemploGit
